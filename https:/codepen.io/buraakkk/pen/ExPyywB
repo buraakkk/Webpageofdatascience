@@ -1,0 +1,385 @@
+<---!  https://codepen.io/buraakkk/pen/ExPyywB  --->
+
+<!DOCTYPE html>
+<html lang="en" {IF CLASSES}class="classes"{/IF}>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  
+  <meta name="Data Science" content="noindex">
+  
+  <!-- MIT License -->
+  
+
+  <title>Python</title>
+  
+<body>
+     <!-- Claas1 is the first class of the webpage so it will go on on that name.  -->
+    
+    <nav class="subpart">
+        <ul>
+            <li> <a class="genled" href="#title">DATA SCIENCE</a></li>
+          
+            <li> <a class="genled" href="#intro">MACHINE LEARNING</a></li>
+          
+            <li> <a class="genled" href="#codename">PYTHON</a></li>
+          
+            <li> <a class="genled" href="#future-learning">FUTURE JOBS</a></li>
+          
+            <li> <a class="genled" href="#current-courses">CURRENT COURSES</a></li>
+        </ul>
+    </nav>
+
+    <div class="data-body">
+<!--This is about title info  -->
+        <header class="title-exposure-wrapper">
+
+            <h1 id="title" class="title">The Future Job </h1>
+        </header>
+        <section>
+                    <div>
+              <h3 id="intro"><em>Machine Learning</em></h3>
+                <p>
+                     Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, deep learning and big data.
+
+DTuring award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.</p>
+                <p> Data science is an interdisciplinary field focused on extracting knowledge from data sets, which are typically large (see big data). The field encompasses analysis, preparing data for analysis, and presenting findings to inform high-level decisions in an organization. As such, it incorporates skills from computer science, mathematics, statistics, information visualization, graphic design, and business.
+                   </p>
+                <p>Many statisticians, including Nate Silver, have argued that data science is not a new field, but rather another name for statistics.[Others argue that data science is distinct from statistics because it focuses on problems and techniques unique to digital data. Vasant Dhar writes that statistics emphasizes quantitative data and description. In contrast, data science deals with quantitative and qualitative data (e.g. images) and emphasizes prediction and action.</p>
+            </div>
+          
+          
+            <div>
+              <h2 id="codename"><em>Python</em></h2>
+
+                Data science is a growing field. A career as a data scientist is ranked at the third best job in America for 2020 by Glassdoor, and was ranked the number one best job from 2016-2019.
+
+                <p> Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse.  </p>
+            </div>
+
+
+
+            <div>
+                
+                <div class="codename">
+
+                        <table >
+                                <thead>
+                                <tr>
+                                <th><h3>Courses</h3></th>
+                                <th><h3>Author</h3></th>
+                                </tr>
+                                
+                                
+                                <tr>
+                                <td>Python For everyone </td>
+                                <td>Charles Russell Severance</td>
+                                </tr>
+                                  
+                                <tr>
+                                <td>Data Science for Python </td>
+                                <td>Auto Cherry</td>
+                                  </tr>
+                                  
+                                  
+                                  <tr>
+                                  <td>Database and SQL</td>
+                                <td>Rav Ahuja</td>
+                                    </tr>
+                                   
+                                  <tr>
+                                  <td>Tools for Data Science</td>
+                                <td>Romeo Kienzler</td>
+                                </tr>
+                                
+                                </thead>
+                                </body>
+                                </table>
+
+
+                </div>
+            </div>
+<!--        Flexbox for Theme Elements    -->
+        </section>
+        <h2 id="future-learning"></h2>
+        <section >
+            
+                <h3>Future Jobs</h3>
+
+                <p>
+                   The researchers found one-quarter of jobs in the U.S. are at “high-risk” of automation, since 70 percent or more of their tasks could be done by machines. Another 36 percent of jobs are at “medium-risk” as a machine could do between 30 and 70 percent of their tasks. Some 40 percent of jobs are at “low-risk”, with less than 30 percent of their tasks able to be performed by a robot.
+                </p>
+            
+
+            <div class="exposure-change1-img">
+
+            </div>
+
+          
+
+
+
+
+            <div>
+                <h3>Data Detective</h3>
+
+                <p>
+                    Currently we leave vast amounts of data online and in the near future companies will need data detectives to go through it all and generate answers to business questions and make recommendations based on their findings. This will be done through investigating the data generated by the “Internet of Things end points, devices, sensors, biometric monitors, traditional computing infrastructure, next-gen fog, mesh, edge, neural capabilities.” 
+                </p>
+            </div>
+           <div class="exposure-imagess">
+
+            </div>
+
+            <div>
+                <h3>Bring your own IT Facilitator</h3>
+
+                <p>
+                    This position is pretty much what it sounds like — an Uber-like IT person. In this position the focus will be to combine a company’s shadow-IT operations with its workplace strategy with the aim being to create an automated self-serve IT platform. Shadow-IT isn’t anything new — it is pretty much the use of hardware or software that is not supported by an organization’s central IT department.
+                </p>
+            </div>
+
+            <div class=" exposure-peace">
+
+            </div>
+
+           
+
+            <div>
+                <h3>Ethical Sourcing Officer</h3>
+
+                <p>
+                    Ethical sourcing officers (ESO) exist for when corporations decide they want to have their decisions guided based on what is ethical and not what is profitable. If a corporation decides to provide humane working conditions to its employees, the ESO will be in charge of touring all factories and monitoring and ensuring that every step of the process are in accordance with the decision made by the shareholders.
+                </p>
+            </div>
+           
+
+<!--     This is about futue jobs       -->
+        </section>
+
+        <h2 id="current-courses">Python Training</h2>
+
+        <section >
+            <div>
+
+                <h3>Python for Scientists and Engineers</h3>
+
+                <p>
+                    This class is intended for scientists and engineers interested in using Python for their day-to-day computational tasks.
+
+It begins with a one-day introduction to the Python language focusing on standard data structures, control constructs, and code organization.
+After a brief overview of the Scientific Python ecosystem, we dive into techniques for numeric data processing, including efficiently manipulating and processing large data sets using NumPy arrays and data visualization with 2D plots using Matplotlib.
+Next up is an introduction to time series and data wrangling with Pandas. </p>
+            </div>
+            <div class="exposure-howl">
+            </div>
+            <div>
+
+                <h3>Python for Data Science</h3>
+
+                <p>Participants in this course will take away:
+
+Hands-on experience setting up an integrated analysis environment for doing data science with Python.
+An understanding of how to use the Python standard library to write programs, access the various data science tools, and document and automate analytic processes.</p>
+             
+              <p>
+Orientation to some of the most powerful and popular Python libraries for data science including Pandas (data preparation, analysis, and modeling; time series analysis), scikit-learn (machine learning), Matplotlib and Seaborn (data visualization).
+                </p>
+ <div class="exposure-vrd">
+
+            </div>
+            </div>
+
+
+            <div>
+
+                <h3> Python for Data Analysis</h3>
+
+                <p>
+                    The Python for Data Analysis class will get you up to speed quickly on how to optimize your use of the Python standard language and key Python packages for data exploration, modeling, and analysis. This curriculum provides an excellent survey understanding of the Python language and its capabilities for all things data, while also providing intensive exposure to the core workhorse tools of NumPy and Pandas that are central to data analysis in Python.
+                </p>
+            </div>
+ <div class="exposure-spirit">
+            </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
+
+h2, h3 {
+  font-family:sans-serif;
+}
+
+#codename{
+  padding-top: 60px;
+  margin-top: -50px;
+}
+
+#intro{
+  padding-top: 60px;
+  margin-top: -50px;
+}
+
+#future-learning{
+  padding-top: 60px;
+  margin-top: -50px;
+}
+
+#current-courses{
+  padding-top: 60px;
+  margin-top: -50px;
+}
+
+#title {
+  padding-top: 350px;
+  margin-top: -550px;
+}
+
+
+body {
+  font-family: italic;
+  background-color:#1111;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.data-body {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  max-width: 1300px;
+  line-height: 1.2em;
+  background-color: white;
+}
+
+.title-exposure-wrapper {
+  font-size: 1px;
+  font-weight: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  min-height: 400px;
+  max-height: 1000px;
+  box-shadow: 0 4px 8px 0 white, 0 6px 20px 0 white;
+  margin-top: 50px;
+  background-image: url("https://www.hetboekenschap.nl/wp-content/uploads/2019/06/Blog-thema-code-1030x441.jpg");
+  background-position: 60% 10%;
+}
+
+.subpart {
+  background-color: white;
+  width: 120%;
+  max-width: 1300px;
+  font-family:monospace;
+  margin-left: 10%;
+  margin-right: 10%;
+  max-height: 100px;
+  padding: 10px;
+  top: 300px;
+  filter: blur(0.5px);
+}
+
+/* genled shows the dashboard features  */
+.genled {
+  text-decoration: none;
+  color: orange;
+  padding: 3px 8px 10px 15px;
+  list-style-type: none;
+  background-color: #333333;
+  text-align:left;
+  padding: 0;
+  top:100px;
+  list-style-type:none;
+  margin:0;
+  overflow: hidden;
+  font-family:italic;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;  
+}  
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color:#e2dcde;
+}
+
+.codename {
+  background-color:white;
+  padding: 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  flex: 1 1 400px;
+  margin: 20px;
+  border-left-width: 5px;
+  border-left-color: white;
+  border-left-style: solid;
+  overflow: hidden;
+}
+
+
+
+
+.exposure-change1-img {
+  background-image: url("http://personal.psu.edu/xqz5228/jpg.jpg");
+  background-size: cover;
+  background-position: 50% 80%;
+  background-repeat: no-repeat;
+  min-height: 400px;
+}
+
+.exposure-imagess {
+  background-image: url("https://i.ytimg.com/vi/9PIqjaXJo7M/maxresdefault.jpg");
+  background-size: cover;
+  background-position: 50% 80%;
+  background-repeat: no-repeat;
+  min-height: 400px;
+}
+
+.exposure-peace {
+  background-image: url("https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png");
+  background-size: cover;
+  background-position: 50% 80%;
+  background-repeat: no-repeat;
+  min-height: 400px;
+}
+
+.exposure-howl {
+  background-image: url("https://miro.medium.com/max/1040/1*IJaOVvKEEseucx63gHluIQ.jpeg");
+  background-size: cover;
+  min-height: 400px;
+  max-height: 1000px;
+}
+
+.exposure-vrd {
+  background-image: url("https://elearnkart.com/wp-content/uploads/2020/01/xds-python.jpg.pagespeed.ic.zKeBki6-17.webp");
+ min-height: 400px;
+ max-height: 1000px;
+}
+
+.exposure-spirit {
+  background-image: url("https://prgrmmr.nl/media/posts/22/responsive/python-code-alt-2xl.jpg");
+
+  background-size: cover;
+  background-position: 50% 40%;
+  background-repeat: no-repeat;
+  min-height: 400px;
+  max-height: 1000px;
+}
+
+  
